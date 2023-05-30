@@ -1,2 +1,2 @@
-#testing gor a course
+#testing for a course
 print("hi boiz")
